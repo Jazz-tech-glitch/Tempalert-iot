@@ -12,6 +12,6 @@ Real-time temperature monitoring and alert system for small animals
 ## Files
 - schematic.pdf` — circuit diagram
 - pcb_layout.pdf` — PCB layout
-- gerber.zip` — fabrication files (if applicable)
+- gerber.zip` — fabrication files
 - images/` — photos of the fabricated PCB
 - firmware.ino` — microcontroller code
